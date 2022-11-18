@@ -11,11 +11,11 @@ from telegram import __version__ as lver
 from RocksAlexaRobot import BOT_USERNAME, OWNER_USERNAME, SUPPORT_CHAT, pgram
 
 PHOTO = [
-    "https://telegra.ph/file/8d5ae37f8b4b2b1b64763.jpg",
-    "https://telegra.ph/file/2d4d106a4b4ecacb99374.jpg",
-    "https://telegra.ph/file/e635ced7273b64341adea.jpg",
-    "https://telegra.ph/file/e42dfbac4be6ddbf1d99f.jpg",
-    "https://telegra.ph/file/db0a91985e4e963b6ef31.jpg",
+    "https://telegra.ph/file/88a1f6b6f12de827d2710.jpg",
+    "https://telegra.ph/file/88a1f6b6f12de827d2710.jpg",
+    "https://telegra.ph/file/88a1f6b6f12de827d2710.jpg",
+    "https://telegra.ph/file/88a1f6b6f12de827d2710.jpg",
+    "https://telegra.ph/file/88a1f6b6f12de827d2710.jpg",
 ]
 
 SHREYXD = [
