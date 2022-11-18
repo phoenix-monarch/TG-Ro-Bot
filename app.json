@@ -1,6 +1,6 @@
 {
-       "name": "Rocks Alexa Official Bot",
-      "description": "A Powerful And Advanced Telegram Group Management Bot By Asad Ali",
+       "name": "Queen-Ro-Bot",
+      "description": "A Powerful And Advanced Telegram Group Management Bot By Danger op",
       "logo": "https://telegra.ph/file/ed0dc3f88422d69d8dcf9.jpg",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "manager",
          "Alexa"
       ],   
-   "repository": "https://github.com/jankarikiduniya/AlexaManagement3.0",
+   "repository": "https://github.com/Dangerop/Queen-Ro-Bot",
    "addons": [
       {
          "options": {
@@ -47,11 +47,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2042185317"
+         "value": "1624072266"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Jankari_Ki_Duniya"
+         "value": "D4nGeR_0pBolte"
       },
       "INFOPIC": {
          "description": "userinfo picture Show In Info.",
@@ -60,17 +60,17 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "Alexa_Help"
+         "value": "QN_Team_support"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001717283097"
+         "value": "-1001556050521"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001717283097"
+         "value": "-1001556050521"
        },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
@@ -80,7 +80,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "2042185317"
+         "value": "1624072266"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -94,12 +94,12 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "2042185317"
+         "value": "1624072266"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "2042185317"
+         "value": "1624072266"
       },
       "STRING_SESSION": {
          "description": "Fill with telethon string session.",
@@ -109,7 +109,7 @@
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1452370643"
+         "value": "1624072266"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
@@ -157,7 +157,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it",
          "required": false,
-         "value": "https://t.me/Jankari_Ki_Duniya"
+         "value": "https://t.me/D4nGeR_0pBolte"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
