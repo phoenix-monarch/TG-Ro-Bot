@@ -79,60 +79,60 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[ᴀʟᴇxᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ](https://telegra.ph/file/a39d85b972b38e2d5fd91.jpg)』
+ ──『[Qᴜᴇᴇɴ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ](https://telegra.ph/file/07954f4988b2de090d13d.jpg)』
 
 *ʜᴇʟʟᴏ ʙᴜᴅᴅʏ ❣️ !*
-✪ ɪ ᴀᴍ ᴀʟᴇxᴀ sᴜᴘᴇʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ 😔
+✪ ɪ ᴀᴍ Qᴜᴇᴇɴ sᴜᴘᴇʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ 😔
 ────────────────────────
-× *ᴀʟᴇxᴀ ɪs ᴀ ɴᴀᴍᴇ ᴏғ sᴜᴄᴄᴇss ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ*
+× *Qᴜᴇᴇɴ ɪs ᴀ ɴᴀᴍᴇ ᴏғ sᴜᴄᴄᴇss ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ*
 × *ғɪʀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ sǫʟ ᴀɴᴅ ᴍᴏɴɢᴏᴅʙ ᴅᴀᴛᴀʙsᴀᴇ*
 ────────────────────────
 ✪ ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ ✌️.
 ────────────────────────
-✪ [CHANNEL](t.me/AsadSupport) - [SUPPORT](t.me/Shayri_Music_Lovers)
+✪ [CHANNEL](t.me/QN_Bot_Updates) - [SUPPORT](t.me/QN_Team_support)
 ────────────────────────
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
 PMSTART_CHAT = (
-    "[ɢᴇᴛ ʙᴜsʏ ʟɪᴠɪɴɢ ᴏʀ ɢᴇᴛ ʙᴜsʏ ᴅʏɪɴɢ!!!](https://telegra.ph/file/f821830759461370f68d9.jpg)",
-    "[ɪ'ᴍ ᴅʀ ᴀsᴀᴅ ᴀʟɪ ᴘʀᴏᴊᴇᴄᴛ](https://telegra.ph/file/85e4f39239fd84a27d138.jpg)",
+    "[ɢᴇᴛ ʙᴜsʏ ʟɪᴠɪɴɢ ᴏʀ ɢᴇᴛ ʙᴜsʏ ᴅʏɪɴɢ!!!](https://telegra.ph/file/07954f4988b2de090d13d.jpg)",
+    "[ɪ'ᴍ  Danger Choudhary ᴘʀᴏᴊᴇᴄᴛ](https://telegra.ph/file/07954f4988b2de090d13d.jpg)",
     "[ᴛᴜʀɴ ʏᴏᴜʀ ᴡᴏᴜɴᴅs ɪɴᴛᴏ ᴡɪsᴅᴏᴍ 🔥](https://telegra.ph/file/35e730dea457c85cc367b.mp4)",
     "[ʜᴀʜᴀʜᴀᴀ ɪ ᴀᴍ ᴀʟᴇx!!!!](https://telegra.ph/file/6f43301a3e43d20f7906a.jpg)", )
 
 buttons = [
     [
         InlineKeyboardButton(
-                            text="💖 ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💖",
-                            url="t.me/ALEXA_MANAGEMENTBOT?startgroup=true"),
+                            text="💖 ᴀᴅᴅ Qᴜᴇᴇɴ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💖",
+                            url="t.me/Queen_Ro_bot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="💌 ᴋɪɴɢ", url="t.me/HarshitSharma361"),
-                       InlineKeyboardButton(text="💌 ғᴇᴅ", url="t.me/Part_Of_Rocks"),
+                       InlineKeyboardButton(text="💌 ᴋɪɴɢ", url="t.me/D4nGeR_0pBolte"),
+                       InlineKeyboardButton(text="💌 ғᴇᴅ", url="t.me/ABOUT_CHOUDHARY"),
                      ],
                     [                  
                        InlineKeyboardButton(
                              text="💌 ᴏᴡɴᴇʀ",
-                             url=f"https://t.me/Dr_Assad_Ali"),
+                             url=f"https://t.me/D4nGeR_0pBolte"),
                        InlineKeyboardButton(
                              text="💌 ɴᴇᴛᴡᴏʀᴋ",
-                             url=f"https://t.me/Shayri_Music_Lovers"),
+                             url=f"https://t.me/QN_Team_support"),
                         ],
                        [
-                           InlineKeyboardButton(text="💓 ʟᴏᴠᴇ", url="t.me/Give_Me_Heart"
+                           InlineKeyboardButton(text="💓 ʟᴏᴠᴇ", url="t.me/The_Friends_Chatting"
          ),
     ],
 ]
 
 HELP_STRINGS = """
-✪ ʜᴇʏ ᴛʜᴇʀᴇ, ɪ'ᴍ *ʀᴏᴄᴋs ᴀʟᴇxᴀ*!
+✪ ʜᴇʏ ᴛʜᴇʀᴇ, ɪ'ᴍ *ᴍɪꜱꜱ_ᴏᴘ_Qᴜᴇᴇɴ*!
 ✪ ɪ'ᴍ ᴜsᴇʟᴇss ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ᴍᴀᴋᴇ ᴍᴇ ғᴜɴᴄᴛɪᴏɴᴀʟ, ᴛʜᴇɴ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ʀᴜɴ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ────────────────────────
 ✪ - /start: *sᴛᴀʀᴛs ᴍᴇ! ʏᴏᴜ'ᴠᴇ ᴘʀᴏʙᴀʙʟʏ ᴀʟʀᴇᴀᴅʏ ᴜsᴇᴅ ᴛʜɪs.*
 ✪ - /help: *sᴇɴᴅs ᴛʜɪs ᴍᴇssᴀɢᴇ; ɪ'ʟʟ ᴛᴇʟʟ ʏᴏᴜ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍʏsᴇʟғ!*
 ✪ - /donate: *ɢɪᴠᴇs ʏᴏᴜ ɪɴғᴏ ᴏɴ ʜᴏᴡ ᴛᴏ sᴜᴘᴘᴏʀᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ᴄʀᴇᴀᴛᴏʀ.*
 ────────────────────────
-✪ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴏʀ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏɴ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ: @AsadSupport ᴏʀ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](http://t.me/Jankari_Ki_Duniya)
-✪ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ: [(/),(!),(?),(.),(~)](https://telegra.ph/file/9d22fedee29fdefdb4862.jpg)
+✪ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴏʀ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏɴ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ: @ABOUT_CHOUDHARY ᴏʀ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](http://t.me/D4nGeR_0pBolte)
+✪ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ: [(/),(!),(?),(.),(~)](https://telegra.ph/file/07954f4988b2de090d13d.jpg)
 ✪ ʟɪsᴛ ᴏғ ᴀʟʟ ᴛʜᴇ ᴍᴏᴅᴜʟᴇs:
 ────────────────────────
 """.format(
@@ -141,15 +141,15 @@ HELP_STRINGS = """
 )
 
 HELP_MSG = "ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴍᴀɴᴜ ɪɴ ʏᴏᴜʀ ᴘᴍ."
-DONATE_STRING = """ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ ᴘʀᴇᴛᴛʏ [ᴏᴡɴᴇʀ](t.me/Dr_Asad_Ali)"""
-HELP_IMG= "https://telegra.ph/file/93aa52512ccd256888b28.jpg"
+DONATE_STRING = """ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ ᴘʀᴇᴛᴛʏ [ᴏᴡɴᴇʀ](t.me/D4nGeR_0pBolte)"""
+HELP_IMG= "https://telegra.ph/file/07954f4988b2de090d13d.jpg"
 GROUPSTART_IMG= "https://telegra.ph/file/35e730dea457c85cc367b.mp4"
 
-PM_IMG = ( "https://telegra.ph/file/8d2bf852a53bd13fb8037.jpg",
-           "https://telegra.ph/file/6f43301a3e43d20f7906a.jpg",
-           "https://telegra.ph/file/c71c9940f27143f1d6b7b.jpg",
-           "https://telegra.ph/file/93aa52512ccd256888b28.jpg",
-           "https://telegra.ph/file/0d7fd638c3c2ea21176a1.jpg", )
+PM_IMG = ( "https://telegra.ph/file/07954f4988b2de090d13d.jpg",
+           "https://telegra.ph/file/07954f4988b2de090d13d.jpg",
+           "https://telegra.ph/file/07954f4988b2de090d13d.jpg",
+           "https://telegra.ph/file/07954f4988b2de090d13d.jpg",
+           "https://telegra.ph/file/07954f4988b2de090d13d.jpg", )
 
 
 IMPORTED = {}
@@ -273,8 +273,8 @@ def start(update: Update, context: CallbackContext):
         reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="💌 ᴋɪɴɢ ", url=f"t.me/Dr_Assad_Ali"),
-                  InlineKeyboardButton(text="😎 ᴜᴘᴅᴀᴛᴇs ", url=f"t.me/AsadSupport"),
+                  InlineKeyboardButton(text="💌 ᴋɪɴɢ ", url=f"t.me/D4nGeR_0pBolte"),
+                  InlineKeyboardButton(text="😎 ᴜᴘᴅᴀᴛᴇs ", url=f"t.me/QN_Bot_Updates"),
                   ]
                 ]
             ),
@@ -353,7 +353,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ* © [ᴅʀ ᴀsᴀᴅ ᴀʟɪ](t.me/Dr_Assad_Ali) *ᴀɴᴅ* [ʜᴀʀsʜɪᴛ sʜᴀʀᴍᴀ](t.me/HarshitSharma361)\n*ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ {} ᴍᴏᴅᴜʟᴇs:*\n".format(
+                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ* © [𝐃𝐚𝐧𝐠𝐞𝐫 Choudhary](t.me/D4nGeR_0pBolte) *ᴀɴᴅ* [𝐃𝐚𝐧𝐠𝐞𝐫 c𝐡ø𝐮𝐝𝐡𝐚𝐫𝐲](t.me/ABOUT_CHOUDHARY)\n*ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ {} ᴍᴏᴅᴜʟᴇs:*\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -713,7 +713,7 @@ def main():
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
                 "https://telegra.ph/file/36be820a8775f0bfc773e.jpg",
-                caption="「 ᴀʟᴇxᴀʀᴏʙᴏᴛ 」 ɪs ᴀʟɪᴠᴇ ✌️!\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ᴀɴᴅ @AsadSupport 🤏",
+                caption="「 Qᴜᴇᴇɴʀᴏʙᴏᴛ 」 ɪs ᴀʟɪᴠᴇ ✌️!\n\nᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ᴀɴᴅ @QN_Team_support 🤏",
             )
         except Unauthorized:
             LOGGER.warning(
