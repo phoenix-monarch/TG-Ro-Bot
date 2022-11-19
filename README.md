@@ -1,10 +1,10 @@
 
-<h1 align="center"><b>❤️ Alexa Management Bot V1 ❤️</b></h1>
+<h1 align="center"><b>❤️ Queen-Ro-Bot Management Bot V1 ❤️</b></h1>
 
 <h4 align="center">Rocks Alexa A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/TheTeamAlexa/AlexaRobot-1.0/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/Dangerop/Queen-Ro-Bot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
 <p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/44870675794b9089a4fa8.jpg" width="400"></a></p>
@@ -43,7 +43,7 @@ The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
 
 ## CREDITS
 
-- [Asad Ali](https://t.me/Dr_Asad_Ali)
+- [Asad Ali](https://t.me/ABOUT_CHOUDHARY)
 - [YouTube](https://www.youtube.com/c/JankariKiDuniya)
 - [Harshit Sharma](https://t.me/HarshitSharma361)
 - Thank Vegeta
