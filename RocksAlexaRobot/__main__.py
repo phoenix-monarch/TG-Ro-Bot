@@ -106,8 +106,8 @@ buttons = [
                             url="t.me/Queen_Ro_bot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="💌 ᴋɪɴɢ", url="t.me/D4nGeR_0pBolte"),
-                       InlineKeyboardButton(text="💌 ғᴇᴅ", url="t.me/ABOUT_CHOUDHARY"),
+                       InlineKeyboardButton(text="💌 ᴋɪɴɢ", url="t.me/ABOUT_CHOUDHARY"),
+                       InlineKeyboardButton(text="💌 ғᴇᴅ", url="t.me/FOR_Unfban"),
                      ],
                     [                  
                        InlineKeyboardButton(
