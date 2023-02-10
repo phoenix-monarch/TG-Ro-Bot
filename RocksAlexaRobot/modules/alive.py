@@ -43,9 +43,9 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.1)
     await m.reply_photo(
         random.choice(PHOTO),
-        caption=f"""**ʜᴇʏ​ ɪ ᴀᴍ ᴀʟᴇxᴀ ✘ ʀᴏʙᴏᴛ​**
+        caption=f"""**ʜᴇʏ​ ɪ ᴀᴍ Queen ✘ ʀᴏʙᴏᴛ​**
         ━━━━━━━━━━━━━━━━━━━
-        » **ᴍʏ ᴏᴡɴᴇʀ :** [ᴀsᴀᴅ](https://t.me/{OWNER_USERNAME})
+        » **ᴍʏ ᴏᴡɴᴇʀ :** [Danger Choudhary](https://t.me/{OWNER_USERNAME})
         
         » **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
         
